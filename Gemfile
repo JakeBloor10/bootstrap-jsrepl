@@ -1,0 +1,5 @@
+gem 'sinatra'
+gem 'liquid'
+gem 'rack'
+gem 'rack-reverse-proxy'
+gem 'shotgun'

@@ -1,0 +1,28 @@
+{
+  "branch": "master",
+  "files": [
+    "sample-content.html"
+  ],
+  "formats": {
+    "pdf": {
+      "version": false,
+      "index": false,
+      "toc": false
+    },
+    "epub": {
+      "index": false,
+      "toc": false,
+      "epubcheck": false
+    },
+    "mobi": {
+      "index": false,
+      "toc": false
+    },
+    "html": {
+      "index": false,
+      "toc": true
+    }
+  },
+  "theme": "",
+  "title": "bootstrap theme"
+}
